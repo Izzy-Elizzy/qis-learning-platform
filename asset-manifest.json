@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Izzy-Elizzy/qis-learning-platform/static/css/main.51778f54.css",
+    "main.js": "/Izzy-Elizzy/qis-learning-platform/static/js/main.96d402dc.js",
+    "static/js/453.b04c7eef.chunk.js": "/Izzy-Elizzy/qis-learning-platform/static/js/453.b04c7eef.chunk.js",
+    "index.html": "/Izzy-Elizzy/qis-learning-platform/index.html",
+    "main.51778f54.css.map": "/Izzy-Elizzy/qis-learning-platform/static/css/main.51778f54.css.map",
+    "main.96d402dc.js.map": "/Izzy-Elizzy/qis-learning-platform/static/js/main.96d402dc.js.map",
+    "453.b04c7eef.chunk.js.map": "/Izzy-Elizzy/qis-learning-platform/static/js/453.b04c7eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51778f54.css",
+    "static/js/main.96d402dc.js"
+  ]
+}
